@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "377833765288",
+    "project_id": "emialauthentication",
+    "storage_bucket": "emialauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377833765288:android:4991588d5ba8d7831a859d",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377833765288-8q45fij60autkocnqdbalgvcohh3c0n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGo6xF3n3VxGipcMjezp4JyqSW9XTEWps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377833765288-8q45fij60autkocnqdbalgvcohh3c0n2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377833765288-do1snddq2q9a0qmr1c6mso3dt6fo0h2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
